@@ -9,7 +9,7 @@
  * \mainpage User Application template doxygen documentation
  *
  * \par Empty user application template
- *
+ * ANAN
  * Bare minimum empty user application template
  *
  * \par Content
